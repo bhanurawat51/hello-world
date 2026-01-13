@@ -1,2 +1,2 @@
 This is Rudolph Kitler, I am recreating my Git profile. 😅
-Thank you for reading.
+print{ "Thank you for reading" }
