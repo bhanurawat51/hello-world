@@ -1,2 +1,2 @@
-# hello-world
-this repository is for training purposes
+This is Rudolph Kitler, I am recreating my Git profile. 😅
+Thank you for reading.
