@@ -1,0 +1,11 @@
+git --version
+
+git config --global username "XYZ"
+git config --global email "ayz@email.com"
+
+git config --list
+
+------
+to begin tracking 
+
+git init
